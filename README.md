@@ -6,7 +6,7 @@ The **AI Layoffs 2026 Executive Dashboard** is an enterprise-grade analytical to
 
 This dashboard was built with a premium, clean aesthetic tailored for C-suite executives, providing immediate, high-level business insights.
 
-
+### Demo : https://layoffsdashboard.streamlit.app/
 ## 🛠️ Tech Stack
 - **Data Processing & EDA**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` (Jupyter Notebook)
 - **Web Dashboard**: `Streamlit`
