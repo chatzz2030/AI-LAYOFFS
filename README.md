@@ -8,7 +8,7 @@ This dashboard was built with a premium, clean aesthetic tailored for C-suite ex
 
 ### Demo : https://layoffsdashboard.streamlit.app/
 ## 🛠️ Tech Stack
-- **Data Processing & EDA**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` (Jupyter Notebook)
+- **Data Processing & EDA**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` 
 - **Web Dashboard**: `Streamlit`
 
 
@@ -19,4 +19,3 @@ This dashboard was built with a premium, clean aesthetic tailored for C-suite ex
 3. **Enterprise Software Hit Hardest**: The Enterprise Software sector accounted for **31,600** job losses, making it the most severely impacted sector by absolute numbers.
 
 ---
-*Disclaimer: The data used in this project is curated for Q1 2026 tracking purposes and should not be used as official financial advice.*
